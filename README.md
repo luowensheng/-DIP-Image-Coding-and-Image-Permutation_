@@ -20,6 +20,8 @@
 <br>
 
 # Introduction
+<a href="#Image-Coding-&-Image-Permutation">(Back to top :arrow_up_small:)</a>
+
 This experiment is about **image compression**. Different algorithms had to be developed to perform different types of compressions on two images and calculate their entropy. Then, images that either had their rows shifted or their columns shifted were given, and some predictive coding algorithms was performed to recover the image.
 
 # Tasks
