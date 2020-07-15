@@ -13,14 +13,14 @@
 <p align="center">
   <a href="#Introduction">Introduction</a> •
   <a href="#Tasks">Tasks</a> •
-  <a href="#Implementation & Results">Implementation & Results</a> •
+  <a href="#Implementation-and-Results">Implementation and Results</a> •
   <a href="#Conclusion">Conclusion</a> •
   <a href="#Questions">Questions</a>
 </p>
 <br>
 
 # Introduction
-<a href="#Image Coding & Image Permutation">(Back to top :arrow_up_small:)</a>
+[(Back to top :arrow_up_small:)](#Image-Coding-&-Image-Permutation)
 
 This experiment is about **image compression**. Different algorithms had to be developed to perform different types of compressions on two images and calculate their entropy. Then, images that either had their rows shifted or their columns shifted were given, and some predictive coding algorithms was performed to recover the image.
 
@@ -46,7 +46,7 @@ image.
 
 <img src="https://i.ibb.co/gt9WTJR/2.jpg" alt="2" width="350"></a><br /><br />
 
-# Implementation
+# Implementation and Results
 ### **Image Coding**
 To perform this task, both images were turned into a ```1 x 256``` vector ranging gray level intensity from ```0 to 256```.
 
