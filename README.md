@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/K76QxJ0/logo-size.jpg" alt="logo-size" border="0"></a>
+    <a href="https://github.com/luowensheng"><img src="https://i.ibb.co/K76QxJ0/logo-size.jpg"></a>
 </p>
 
 <h3 align="center">Digital Image Processing:</h3>
