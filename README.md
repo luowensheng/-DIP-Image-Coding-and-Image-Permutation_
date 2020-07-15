@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">Digital Image Processing:</h3>
-<h1 align="center">Image Coding & Image Permutation</h1>
+<h1 align="center">Image Coding and Image Permutation</h1>
 
 <p align="center">
     <a href="https://www.mathworks.com/products/matlab.html"><img src="https://img.shields.io/badge/Made with-MATLAB-blue.svg"></a>
@@ -20,11 +20,13 @@
 <br>
 
 # Introduction
-[(Back to top :arrow_up_small:)](#Image-Coding-&-Image-Permutation)
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
 
 This experiment is about **image compression**. Different algorithms had to be developed to perform different types of compressions on two images and calculate their entropy. Then, images that either had their rows shifted or their columns shifted were given, and some predictive coding algorithms was performed to recover the image.
 
 # Tasks
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+
 ### **Image Coding**
 * Given the ```8-bits``` images, calculate the image entropy and horizontal difference image entropy.
 
@@ -47,6 +49,8 @@ image.
 <img src="https://i.ibb.co/gt9WTJR/2.jpg" alt="2" width="350"></a><br /><br />
 
 # Implementation and Results
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+
 ### **Image Coding**
 To perform this task, both images were turned into a ```1 x 256``` vector ranging gray level intensity from ```0 to 256```.
 
@@ -137,13 +141,19 @@ ___
 
 
 # Conclusion
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+
 The ```GUI```: 
 ![9](https://i.ibb.co/4NsGQfD/9.jpg)
 
 
 # Reference
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+
 [1] [IEEE Manuscript Templates](http://www.ieee.org/conferences_events/conferences/publishing/templates.html).
 
 # Questions
+[(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
+
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues).
 
