@@ -144,6 +144,7 @@ ___
 [(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
 
 The ```GUI```: 
+
 ![9](https://i.ibb.co/4NsGQfD/9.jpg)
 
 
