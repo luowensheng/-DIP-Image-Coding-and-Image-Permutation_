@@ -17,7 +17,8 @@
   <a href="#Conclusion">Conclusion</a> •
   <a href="#Questions">Questions</a>
 </p>
-<br>
+
+___
 
 # Introduction
 [(Back to top :arrow_up_small:)](#Image-Coding-and-Image-Permutation)
