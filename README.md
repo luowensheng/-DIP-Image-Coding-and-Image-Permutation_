@@ -17,7 +17,7 @@
   <a href="#Conclusion">Conclusion</a> •
   <a href="#Questions">Questions</a>
 </p>
-
+    
 ___
 
 # Introduction
@@ -159,3 +159,7 @@ The ```GUI```:
 
 Submit your questions and bug reports [here](https://github.com/luowensheng/Natural-Language-Processing-Grammatical-Error-Correction-/issues).
 
+<br>
+<p align="center">  
+  <sub>© luowensheng.
+  </a>
