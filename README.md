@@ -126,9 +126,11 @@ Column 3
 ___
 ### **Image Permutation**
 * Recover randomnly shifted rows of an image
+
 ![7](https://i.ibb.co/n0FDfQH/7.jpg)
 
 * Recover randomnly shifted columns of an image
+
 ![8](https://i.ibb.co/BCSxLyc/8.jpg)
 
 
