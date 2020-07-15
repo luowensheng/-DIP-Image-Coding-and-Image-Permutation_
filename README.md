@@ -23,9 +23,9 @@ This experiment is about **image compression**. Different algorithms had to be d
 * Given the ```8-bits``` images, calculate the image entropy and horizontal difference image entropy.
 
 * Given the ```8-bits``` images, compress the image with following methods:
-    1. Huffman Coding
-    2. Arithmetic Coding
-    3. LZW coding
+1. Huffman Coding
+2. Arithmetic Coding
+3. LZW coding
 
     Compare the compression ratio difference in bit rate.
 
@@ -57,23 +57,29 @@ Each element of the vector stores the number of elements containing the associat
 <p align="center"><b>Image 2:</p></b>
 <p align="center"><img src="https://i.ibb.co/C9YkFW7/3.jpg" alt="3" border="0"></a>
 
-<p align="center">A portion of the results from performing <i>Huffman coding</i> on Image 2:</p><img src="https://i.ibb.co/nQ0GVdw/4.jpg" alt="4" border="0"></a><br /><br />
+<p align="center">A portion of the results from performing <i>Huffman coding</i> on Image 2:</p>
+<p align="center"><img src="https://i.ibb.co/nQ0GVdw/4.jpg" alt="4" border="0"></a><br /><br /></p>
 
 
 <h3 align="center"><b>ARITHMETIC CODING</b></h3>
 <p align="center"><b>Image 1:</p></b>
 
+<p align="center">
+    
 ```
 arithmetic code for is the image = 8.4608e-09
 >>
 ```
-<p align="center"><b>Image 2:</p></b>
+</p>
 
+<p align="center"><b>Image 2:</p></b>
+<p align="center">
+    
 ```
 arithmetic code for is the image = 1.3141e-10
 >>
 ```
-
+</p>
 
 <h3 align="center"><b>LZW CODING</b></h3>
 <p align="center"><b>Image 1:</p></b>
