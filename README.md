@@ -1,4 +1,6 @@
-<h6 align="center">luowensheng</h3>
+<p align="center">
+    <img src="https://i.ibb.co/K76QxJ0/logo-size.jpg" alt="logo-size" border="0"></a>
+</p>
 
 <h3 align="center">Digital Image Processing:</h3>
 <h1 align="center">Image Coding & Image Permutation</h1>
